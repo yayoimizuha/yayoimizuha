@@ -1,6 +1,6 @@
 # Yayoi Mizuha (弥生　水葉) - @yayoimizuha
 
-## About Me
+## 👩About Me
 
 Hi I'm Yayoi Mizuha a high school student at "[Tokyo Tech High School of Science and Technology](https://www.hst.titech.ac.jp/)".
 
