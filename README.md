@@ -6,12 +6,13 @@
 
 Hi I'm Yayoi Mizuha a high school student at "[Tokyo Tech High School of Science and Technology](https://www.hst.titech.ac.jp/)".
 
+<!--
 > To do is to be.
 >
 > 　　　　　　　　　Socrates
 
 If you go through each day without effort, you won't get a new tomorrow. Don't give up to make effort,the results will come. 
-
+-->
 ## 👀Interest
 
 - VR & VTuber
