@@ -15,7 +15,7 @@ If you go through each day without effort, you won't get a new tomorrow. Don't g
 - VR & VTuber
 - Real-time photorealistic rendering
 - Cute clothes
-- ![term icon]Network computing
+- Network computing
 
 ## 💪Skills
 
