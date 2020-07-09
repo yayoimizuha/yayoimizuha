@@ -2,6 +2,13 @@
 
 Hi I'm Yayoi Mizuha a high school student at "[Tokyo Tech High School of Science and Technology](https://www.hst.titech.ac.jp/)".
 
+## Interest
+
+- VR & VTuber
+- Real-time photorealistic rendering
+- Cute clothes
+- Network computing
+
 ## Skills
 
 - 3D animation & graphic with [Blender](https://www.blender.org/)
@@ -11,8 +18,9 @@ Hi I'm Yayoi Mizuha a high school student at "[Tokyo Tech High School of Science
 
 ## Get in touch
 
-- Twitter
-- Instagram
+- [Twitter](https://mobile.twitter.com/yayoi_mizuha)
+- [Instagram](https://www.instagram.com/tomo_kata_/)
+
 
 
 <!--
