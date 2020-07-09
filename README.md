@@ -1,6 +1,14 @@
 # Yayoi Mizuha (弥生　水葉) - @yayoimizuha
 
+## About Me
+
 Hi I'm Yayoi Mizuha a high school student at "[Tokyo Tech High School of Science and Technology](https://www.hst.titech.ac.jp/)".
+
+> To do is to be.
+>
+> ​						Socrates
+
+If you go through each day without effort, you won't get a new tomorrow. Don't give up to make effort,the results will come. 
 
 ## Interest
 
@@ -15,6 +23,7 @@ Hi I'm Yayoi Mizuha a high school student at "[Tokyo Tech High School of Science
 - Movie editing with [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 - HTML5 & CSS3 Coding
 - Photography at [Instagram](https://www.instagram.com/tomo_kata_/)
+- Using Linux a little
 
 ## Get in touch
 
