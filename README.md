@@ -1,6 +1,6 @@
 # Yayoi Mizuha (弥生　水葉) - @yayoimizuha
 
-## 👩About Me
+## About Me
 
 Hi I'm Yayoi Mizuha a high school student at "[Tokyo Tech High School of Science and Technology](https://www.hst.titech.ac.jp/)".
 
@@ -15,7 +15,7 @@ If you go through each day without effort, you won't get a new tomorrow. Don't g
 - VR & VTuber
 - Real-time photorealistic rendering
 - Cute clothes
-- Network computing
+- ![term icon]Network computing
 
 ## 💪Skills
 
