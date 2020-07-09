@@ -1,6 +1,8 @@
 # Yayoi Mizuha (弥生　水葉) - @yayoimizuha
 
-## About Me
+![GitHub pull requests](https://img.shields.io/github/issues-pr/yayoimizuha/chizu_blog_hugo?style=flat-square)![GitHub followers](https://img.shields.io/github/followers/yayoimizuha?label=GitHub%20Followers&style=flat-square)![GitHub followers](https://img.shields.io/badge/Old-16-success?style=flat-square)
+
+## 👶About Me
 
 Hi I'm Yayoi Mizuha a high school student at "[Tokyo Tech High School of Science and Technology](https://www.hst.titech.ac.jp/)".
 
@@ -29,6 +31,7 @@ If you go through each day without effort, you won't get a new tomorrow. Don't g
 
 - [Twitter](https://mobile.twitter.com/yayoi_mizuha)
 - [Instagram](https://www.instagram.com/tomo_kata_/)
+- [My website](https://mizuha-dev.com/blog/)
 
 
 
