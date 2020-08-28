@@ -34,7 +34,8 @@ If you go through each day without effort, you won't get a new tomorrow. Don't g
 - [Instagram](https://www.instagram.com/tomo_kata_/)
 - [My website](https://mizuha-dev.com/blog/)
 
-
+## Analytics
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yayoimizuha)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yayoimizuha/yayoimizuha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
