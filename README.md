@@ -30,7 +30,7 @@ If you go through each day without effort, you won't get a new tomorrow. Don't g
 
 ## 📫Get in touch📫
 
-- [![Twitter](https://img.shields.io/twitter/follow/yayoi_mizuha?color=%231DA1F2&style=for-the-badge)](https://twitter.com/yayoi_mizuha)
+ [![Twitter](https://img.shields.io/twitter/follow/yayoi_mizuha?color=%231DA1F2&style=for-the-badge)](https://twitter.com/yayoi_mizuha)
 - [Instagram](https://www.instagram.com/tomo_kata_/)
 - [My website](https://mizuha-dev.com/blog/)
 
