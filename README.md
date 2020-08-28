@@ -31,9 +31,9 @@ If you go through each day without effort, you won't get a new tomorrow. Don't g
 ## 📫Get in touch📫
 
  [![Twitter](https://img.shields.io/twitter/follow/yayoi_mizuha?color=%231DA1F2&style=for-the-badge)](https://twitter.com/yayoi_mizuha)
-- [Instagram](https://www.instagram.com/tomo_kata_/)
-[![Instagram](https://img.shields.io/badge/View%20on%20Instagram-Follow%20Me!-9cf?style=for-the-badge&logo=appveyor)]
-- [My website](https://mizuha-dev.com/blog/)
+
+ [![Instagram](https://img.shields.io/badge/View%20on%20Instagram-Follow%20Me!-9cf?style=for-the-badge&logo=instagram)](https://www.instagram.com/tomo_kata_/)
+ [![Web site ](https://img.shields.io/badge/Visit%20my%20Website-Go!-9cf?style=for-the-badge&logo=wordpress)](https://mizuha-dev.com/blog/)
 
 ## 🧐Analytics🧐
 [![Mizuha's github stats](https://github-readme-stats.vercel.app/api?username=yayoimizuha)](https://github.com/anuraghazra/github-readme-stats)
